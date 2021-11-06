@@ -1,3 +1,6 @@
+"
+This class contains tests for MyCounter
+"
 Class {
 	#name : #CounterTest,
 	#superclass : #TestCase,
